@@ -1,5 +1,4 @@
 # server-installation
-cheat sheet 
 
 used sources:
 - https://beyond.lol/ubuntu-20-04-lts-automatische-updates-aktivieren/
